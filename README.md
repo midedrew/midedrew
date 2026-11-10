@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Drew 👋
 
-<!--
-**midedrew/midedrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a product specialist focused on renewable energy and electronics hardware, based in Nigeria.
 
-Here are some ideas to get you started:
+## What I do
+- Evaluate and break down energy storage products, especially EcoFlow and battery energy storage systems (BESS). I've done this independently for 2.5+ years.
+- Turn technical specs into clear product write ups, comparisons, and recommendations.
+- Work with tech startups on business development and client acquisition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+- BSc Physics with Electronics (Second Class Upper)
+- Python certificate, New Horizons
+- Civil engineering technology foundation
+
+## Where I'm headed
+Product management and project specialist roles at startups and renewable energy companies. Open to remote work.
+
+## Find my work
+- Portfolio: drewxpolowatt.lovable.app
+- LinkedIn: linkedin.com/in/midedrew
+- Email: ayomiderei@gmail.com
